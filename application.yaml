@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/aryanm12/demo-argocd.git
+    repoURL: https://github.com/Shrutika-Panchal/ArgoCD-Demo.git
     targetRevision: HEAD
     path: k8s-manifest
   destination:
