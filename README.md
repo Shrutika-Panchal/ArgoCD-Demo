@@ -1,6 +1,6 @@
 # Demo ArgoCD 
 ### Handson : 
-1.Create a git repo // sample
+1.Create a git repo // sample <br>
 2.Add Argo application configuration file // eg. argo-application.yaml
 3.Place kubernetes manifest files in it.
 4.Apply the argo application file : 
